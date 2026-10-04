@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.st/
+.vscode/
+.idea/
+
+st_err.txt
+st_log.txt
+
